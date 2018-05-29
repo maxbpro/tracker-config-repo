@@ -1,5 +1,5 @@
 
 #spring.datasource.url: "jdbc:postgresql://database:5432/eagle_eye_local"
-spring.data.mongodb.host=database
-spring.data.mongodb.port=27017
-spring.data.mongodb.database=tracking
+spring.data.mongodb.host : database
+spring.data.mongodb.port : 27017
+spring.data.mongodb.database : tracking
